@@ -2,10 +2,7 @@ body {
     background: white;
 }
 
-#wrapper {
-    margin-left: auto;
-    margin-right: auto;
-}
+
 
 #logo {
     width: auto;
@@ -107,10 +104,12 @@ body {
     padding-left: 30px;
 }
 
-#table {
-    margin-left: 200px;
-}
 
 .std_border {
     border: 1px solid black;
+}
+
+.center_margin {
+    margin-left: auto;
+    margin-right: auto;
 }
