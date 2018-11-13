@@ -3,23 +3,16 @@ body {
 }
 
 #wrapper {
-    width: 960px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #logo {
-    background-image: url("../images/traventure.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 80px;
+    width: auto;
 }
 
 #menu {
-    hight: 80px;
     line-height: 80px;
-    width: 366;
-    float: right;
 }
 
 #menu li {
@@ -35,5 +28,89 @@ body {
     background-image: url("../images/4x4-adventure-automobile.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 580px;
+
+}
+
+#left_banner {
+    width: 480px;
+    background: black;
+    opacity: 0.4;
+    position: relative;
+}
+
+#hero-text {
+    color: white;
+    width: 367px;
+    top: 50px;
+    left: 50px;
+}
+
+#more {
+    width: 150px;
+    top: 10px;
+}
+
+#more h2 {
+    color: blue;
+}
+
+
+#footer {
+    background: black;
+    text-align: center;
+    line-height: 50px;
+}
+
+#footer p {
+    color: white;
+}
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+.max_width {
+    width: 960px;
+}
+
+.std_small_height {
+    height: 80px;
+}
+
+.std_big_height {
+    height: 554px;
+}
+
+.rel_position {
+    position: relative;
+}
+
+#about_mountain {
+    clear: right;
+    width: 290px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+}
+
+#description {
+    float: left;
+    width: 560px;
+    padding-left: 30px;
+}
+
+#description p {
+    padding-left: 30px;
+}
+
+#table {
+    margin-left: 200px;
+}
+
+.std_border {
+    border: 1px solid black;
 }
