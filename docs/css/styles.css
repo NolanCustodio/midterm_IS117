@@ -8,3 +8,32 @@ body {
     margin-right: auto;
 }
 
+#logo {
+    background-image: url("../images/traventure.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+}
+
+#menu {
+    hight: 80px;
+    line-height: 80px;
+    width: 366;
+    float: right;
+}
+
+#menu li {
+    display: inline;
+}
+
+#menu ul {
+    margin: 0px;
+}
+
+#banner {
+    clear: both;
+    background-image: url("../images/4x4-adventure-automobile.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+}
