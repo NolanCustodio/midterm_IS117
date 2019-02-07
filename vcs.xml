@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/NolanCustodio/test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/heroku/php-getting-started.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Strart\WebstormProjects" />
